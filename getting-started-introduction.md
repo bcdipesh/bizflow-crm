@@ -1,4 +1,10 @@
-### **What is BizFlow M?**
+# Documentation
+
+Welcome to the BizFlow Docs!
+
+---
+
+### What is BizFlow M?
 
 BizFlow M is a cutting-edge **Low-Code Application Platform (LCAP)** designed to simplify and accelerate application development. Whether you are a **citizen developer** or an advanced coder, BizFlow M empowers you to create enterprise-ready solutions with minimal coding effort. Our platform integrates drag-and-drop functionality, prebuilt templates, and reusable components to deliver **scalable, mission-critical applications** for diverse industries.  
 
@@ -6,7 +12,7 @@ BizFlow M is more than a platform—it’s a solution suite that includes tools 
 
 ---
 
-### **Main Features**
+### Main Features
 
 1. **Drag-and-Drop Development**: Quickly design forms, workflows, and applications using an intuitive interface.  
 2. **Business Process Management (BPM)**: Automate workflows and processes with a powerful BPM engine, providing transparency and efficiency.  
@@ -19,7 +25,7 @@ BizFlow M is more than a platform—it’s a solution suite that includes tools 
 
 ---
 
-### **How to Use These Docs**
+### How to Use These Docs
 
 This documentation is your guide to mastering BizFlow M. It is structured to provide clear, actionable steps for users at all levels of expertise.  
 
@@ -30,7 +36,7 @@ This documentation is your guide to mastering BizFlow M. It is structured to pro
 
 ---
 
-### **Pre-Requisite Knowledge**
+### Pre-Requisite Knowledge
 
 While BizFlow M is designed to be user-friendly, familiarity with the following will help you maximize your experience:  
 
@@ -42,7 +48,7 @@ For beginners, the platform includes training resources to bridge any knowledge 
 
 ---
 
-### **Accessibility**
+### Accessibility
 
 BizFlow M is committed to providing an inclusive experience for all users. Our platform is designed to meet **508/WCAG compliance standards**, ensuring:  
 
@@ -52,16 +58,3 @@ BizFlow M is committed to providing an inclusive experience for all users. Our p
 - **Custom Styling**: Easily adjust UI elements to meet organizational or individual accessibility requirements.  
 
 For additional support, consult our Accessibility Guide or contact our support team for assistance.  
-
----
-
-### **Join Our Community**
-
-At BizFlow, we value collaboration and learning. By joining our community, you gain access to:  
-
-- **Discussion Forums**: Connect with other users to share tips, best practices, and innovative ideas.  
-- **Webinars & Workshops**: Attend live events hosted by BizFlow experts.  
-- **Knowledge Base**: Explore articles, FAQs, and case studies for in-depth insights.  
-- **Support Portal**: Get help from our dedicated technical team to resolve challenges.  
-
-Visit our **Community Portal** at [www.bizflow.com/community](http://www.bizflow.com/community) to start your journey with fellow innovators today!
